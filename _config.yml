@@ -1,12 +1,12 @@
-title: John Smith
+title: Thuy Tran
 description: My Personal Blog
-author: John Smith
-logo: /hcz-jekyll-blog/static/img/avatar.png
-github: https://github.com/codeasashu
-about: Freelance developer
+author: Thuy Tran
+logo: /assets/avatar.jpg
+github: https://github.com/ThuyTranCSE
+about: Undergraduate UIT
 
-baseurl: "https://codeasashu.github.io/hcz-jekyll-blog"
-url: "https://codeasashu.github.io/hcz-jekyll-blog"
+baseurl: "https://ThuyTranCSE.github.io"
+url: "https://ThuyTranCSE.github.io"
 
 allowsearch: true
 
